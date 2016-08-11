@@ -1,0 +1,2 @@
+Strategy Pattern
+一个context类，里面加载不同的strategy接口，然后有个方法调用接口方法
